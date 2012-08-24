@@ -131,6 +131,10 @@ fieldset h2 {
     display: inline-block;
 }
 
+#navigation li li {
+    display: block;
+}
+
 #navigation .wrapper > ul > li > a,
 #navigation .wrapper > ul > li > span {
     color: #666;
